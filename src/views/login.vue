@@ -1,12 +1,14 @@
 <template>
   <div class="login">
+    <h1 class="mainName">创然集团数字化系统</h1>
+    <h3 class="mainNameP">CHUANGRAN GROUP DIGITAL SYSTEM</h3>
     <el-form
       ref="loginRef"
       :model="loginForm"
       :rules="loginRules"
       class="login-form"
     >
-      <h3 class="title">若依后台管理系统</h3>
+      <h3 class="title">创然账号</h3>
       <el-form-item prop="username">
         <el-input
           v-model="loginForm.username"
@@ -74,10 +76,6 @@
         </div>
       </el-form-item>
     </el-form>
-    <!--  底部  -->
-    <div class="el-login-footer">
-      <span>Copyright © 2018-2023 ruoyi.vip All Rights Reserved.</span>
-    </div>
   </div>
 </template>
 
@@ -181,12 +179,30 @@ getCookie();
 
 <style lang='scss' scoped>
 .login {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-  background-image: url("../assets/images/login-background.jpg");
-  background-size: cover;
+    display: flex;
+    justify-content: right;
+    padding-right: 20%;
+    padding-top: 5%;
+    align-items: center;
+    height: 100%;
+    background-image: url(/src/assets/images/login-background.jpg);
+    background-size: cover;
+}
+.mainName{
+    position: absolute;
+    top: 11%;
+    right: 41%;
+    font-size: 36px;
+    font-weight: 900;
+    color: white;
+}
+.mainNameP{
+  letter-spacing:8px;
+    position: absolute;
+    top: 18%;
+    right: 31%;
+    color: white;
+  
 }
 .title {
   margin: 0px auto 30px auto;
@@ -196,7 +212,8 @@ getCookie();
 
 .login-form {
   border-radius: 6px;
-  background: #ffffff;
+  background: #094c81;
+  opacity: 0.7;
   width: 400px;
   padding: 25px 25px 5px 25px;
   .el-input {

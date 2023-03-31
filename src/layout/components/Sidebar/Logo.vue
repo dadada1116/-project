@@ -25,7 +25,7 @@ defineProps({
   }
 })
 
-const title = ref('若依管理系统');
+const title = ref('创然集团数字化系统');
 const settingsStore = useSettingsStore();
 const sideTheme = computed(() => settingsStore.sideTheme);
 </script>
