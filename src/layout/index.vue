@@ -62,6 +62,7 @@ const settingRef = ref(null);
 function setLayout() {
   settingRef.value.openSetting();
 }
+
 </script>
 
 <style lang="scss" scoped>

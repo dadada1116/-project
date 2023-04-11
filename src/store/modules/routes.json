@@ -1,0 +1,1013 @@
+[
+    {
+        "component": "layout",
+        "hidden": false,
+        "path": "/index1",
+        "name": "index1",
+        "iconName": "icon-settings",
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "meta":{
+            "title":"111"
+        },
+        "children": [
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "1",
+                "meta":{
+                    "title":"111"
+                },
+                "path": "index1",
+                "name": "index1/index1",
+                "children": [
+                    {
+                        "component": null,
+                        "hidden": false,
+                        "iconName": null,
+                        "parentCode": "2",
+                        "menuCode": "21FE1947-E33F-4794-BBC9-173BF3779CC1",
+                        "path": "/a",
+                        "name": "index1/index1/a",
+                        "id": "21FE1947-E33F-4794-BBC9-173BF3779CC1",
+                        "text": "菜单权限",
+                        "meta":{
+                            "title":"菜单权限"
+                        },
+                        "sort": 3,
+                        "type": 1,
+                        "url": "21FE1947-E33F-4794-BBC9-173BF3779CC1"
+                    },
+                    {
+                        "component": null,
+                        "hidden": false,
+                        "iconName": null,
+                        "parentCode": "2",
+                        "menuCode": "7",
+                        "path": "/index1/index1/b",
+                        "name": "index1/index1/b",
+                        "id": "7",
+                        "text": "系统菜单设置",
+                        "meta":{
+                            "title":"系统菜单设置"
+                        },
+                        "sort": 1,
+                        "type": 1,
+                        "url": "7"
+                    }
+                ],
+                "menuCode": "2",
+                "path": "/index1/index1/c",
+                "name": "index1/index1/c",
+                "id": "2",
+                "text": "菜单管理",
+                "sort": 4,
+                "meta":{
+                    "title":"菜单管理"
+                },
+                "type": 0,
+                "url": "2"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "1",
+                "meta":{
+                    "title":"流程管理"
+                },
+                "menuCode": "3B7C71C1-DBE8-4567-BAE3-C94E9445FA16",
+                "path": "/index1/index1/d",
+                "name": "index1/index1/d",
+                "id": "3B7C71C1-DBE8-4567-BAE3-C94E9445FA16",
+                "text": "流程管理",
+                "sort": 11,
+                "type": 1,
+                "url": "3B7C71C1-DBE8-4567-BAE3-C94E9445FA16"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "1",
+                "menuCode": "7CBD160E-5202-4304-8A95-C7E6B3A44DCD",
+                "path": "/index1/index1/e",
+                "name": "index1/index1/e",
+                "id": "7CBD160E-5202-4304-8A95-C7E6B3A44DCD",
+                "text": "参数设置",
+                "meta":{
+                    "title":"参数设置"
+                },
+                "sort": 6,
+                "type": 1,
+                "url": "7CBD160E-5202-4304-8A95-C7E6B3A44DCD"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "1",
+                "menuCode": "EEC7A0A4-78A7-4CE3-ADDC-3BD65ADCF6A7",
+                "path": "/index1/index1/f",
+                "name": "index1/index1/f",
+                "meta":{
+                    "title":"企业数据格式配置"
+                },
+                "id": "EEC7A0A4-78A7-4CE3-ADDC-3BD65ADCF6A7",
+                "text": "企业数据格式配置",
+                "sort": 10,
+                "type": 1,
+                "url": "EEC7A0A4-78A7-4CE3-ADDC-3BD65ADCF6A7"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "1",
+                "menuCode": "F322E0ED-61A7-4511-88BA-4650DB807498",
+                "meta":{
+                    "title":"后台调用测试"
+                },
+                "path": "/index1/index1/g",
+                "name": "index1/index1/g",
+                "id": "F322E0ED-61A7-4511-88BA-4650DB807498",
+                "text": "后台调用测试",
+                "sort": 9,
+                "type": 1,
+                "url": "F322E0ED-61A7-4511-88BA-4650DB807498"
+            }
+        ],
+        "menuCode": "1",
+        "path": "/index1/index1/q",
+        "name": "index1/index1/q",
+        "id": "1",
+        "meta":{
+            "title":"系统设置"
+        },
+        "text": "系统设置",
+        "sort": 102,
+        "type": 0,
+        "url": "1"
+    },
+    {
+        "component": null,
+        "hidden": false,
+        "meta":{
+            "title":"111"
+        },
+        "iconName": null,
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "children": [
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "4084FD60-E96D-4434-A7C8-AC69F5CE7400",
+                "menuCode": "4FA2789D-EEC6-4743-9C55-3421C87B1C1C",
+                "path": "/index1/index1/w",
+                "name": "index1/index1/w",
+                "id": "4FA2789D-EEC6-4743-9C55-3421C87B1C1C",
+                "meta":{
+                    "title":"个人人才库"
+                },
+                "text": "个人人才库",
+                "sort": 0,
+                "type": 1,
+                "url": "4FA2789D-EEC6-4743-9C55-3421C87B1C1C"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "4084FD60-E96D-4434-A7C8-AC69F5CE7400",
+                "menuCode": "6EE1F7CE-17E4-4F27-AC15-F93134269ED7",
+                "path": "/index1/index1/r",
+                "name": "index1/index1/r",
+                "id": "6EE1F7CE-17E4-4F27-AC15-F93134269ED7",
+                "meta":{
+                    "title":"正式员工库"
+                },
+                "text": "正式员工库",
+                "sort": 3,
+                "type": 1,
+                "url": "6EE1F7CE-17E4-4F27-AC15-F93134269ED7"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "4084FD60-E96D-4434-A7C8-AC69F5CE7400",
+                "menuCode": "7D9FEB22-0230-4E74-AC5E-00B0B4D50B10",
+                "path": "/index1/index1/t",
+                "name": "index1/index1/t",
+                "id": "7D9FEB22-0230-4E74-AC5E-00B0B4D50B10",
+                "meta":{
+                    "title":"人才工作量统计"
+                },
+                "text": "人才工作量统计",
+                "sort": 6,
+                "type": 1,
+                "url": "7D9FEB22-0230-4E74-AC5E-00B0B4D50B10"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "4084FD60-E96D-4434-A7C8-AC69F5CE7400",
+                "menuCode": "8AA7CC7A-2B2D-478C-997B-ED5CBE2CAD7C",
+                "path": "/index1/index1/i",
+                "name": "index1/index1/i",
+                "meta":{
+                    "title":"试用人才库"
+                },
+                "id": "8AA7CC7A-2B2D-478C-997B-ED5CBE2CAD7C",
+                "text": "试用人才库",
+                "sort": 2,
+                "type": 1,
+                "url": "8AA7CC7A-2B2D-478C-997B-ED5CBE2CAD7C"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"离职人才库"
+                },
+                "parentCode": "4084FD60-E96D-4434-A7C8-AC69F5CE7400",
+                "menuCode": "91D5AC64-2501-4D7E-BE4D-910225F4E36F",
+                "path": "/index1/index1/o",
+                "name": "index1/index1/o",
+                "id": "91D5AC64-2501-4D7E-BE4D-910225F4E36F",
+                "text": "离职人才库",
+                "sort": 4,
+                "type": 1,
+                "url": "91D5AC64-2501-4D7E-BE4D-910225F4E36F"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"培训人才库"
+                },
+                "parentCode": "4084FD60-E96D-4434-A7C8-AC69F5CE7400",
+                "menuCode": "9FDB8E2F-FD5E-45BB-9EE5-20574C2C67B9",
+                "path": "/index1/index1/z",
+                "name": "index1/index1/z",
+                "id": "9FDB8E2F-FD5E-45BB-9EE5-20574C2C67B9",
+                "text": "培训人才库",
+                "sort": 1,
+                "type": 1,
+                "url": "9FDB8E2F-FD5E-45BB-9EE5-20574C2C67B9"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"公海人才库"
+                },
+                "parentCode": "4084FD60-E96D-4434-A7C8-AC69F5CE7400",
+                "menuCode": "C71B7086-7094-4493-9382-BB5329976EFB",
+                "path": "/index1/index1/x",
+                "name": "index1/index1/x",
+                "id": "C71B7086-7094-4493-9382-BB5329976EFB",
+                "text": "公海人才库",
+                "sort": 5,
+                "type": 1,
+                "url": "C71B7086-7094-4493-9382-BB5329976EFB"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "meta":{
+                    "title":"招聘数据统计"
+                },
+                "iconName": null,
+                "parentCode": "4084FD60-E96D-4434-A7C8-AC69F5CE7400",
+                "menuCode": "FBF97B31-2B46-455F-AA5F-64175B475671",
+                "path": "/index1/index1/m",
+                "name": "index1/index1/m",
+                "id": "FBF97B31-2B46-455F-AA5F-64175B475671",
+                "text": "招聘数据统计",
+                "sort": 7,
+                "type": 1,
+                "url": "FBF97B31-2B46-455F-AA5F-64175B475671"
+            }
+        ],
+        "menuCode": "4084FD60-E96D-4434-A7C8-AC69F5CE7400",
+        "path": "/index1/index1/k",
+        "name": "index1/index1/k",
+        "id": "4084FD60-E96D-4434-A7C8-AC69F5CE7400",
+        "text": "人才库",
+        "sort": 105,
+        "meta":{
+            "title":"人才库"
+        },
+        "type": 0,
+        "url": "4084FD60-E96D-4434-A7C8-AC69F5CE7400"
+    },
+    {
+        "component": null,
+        "hidden": true,
+        "iconName": null,
+        "meta":{
+            "title":"111"
+        },
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "children": [
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"高企材料准备统计"
+                },
+                "parentCode": "40A7EC0D-397E-4E93-8C4C-2BD4A16138BA",
+                "menuCode": "0C8038F0-E2B7-4026-86E4-9B3A3050BC56",
+                "path": "/index1/index1/2",
+                "name": "index1/index1/2",
+                "id": "0C8038F0-E2B7-4026-86E4-9B3A3050BC56",
+                "text": "高企材料准备统计",
+                "sort": 23,
+                "type": 1,
+                "url": "0C8038F0-E2B7-4026-86E4-9B3A3050BC56"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "40A7EC0D-397E-4E93-8C4C-2BD4A16138BA",
+                "menuCode": "61A8531B-7A2C-44D7-AAAB-0ACFCD93C274",
+                "path": "/index1/index1/3",
+                "meta":{
+                    "title":"电话工作量统计"
+                },
+                "name": "index1/index1/3",
+                "id": "61A8531B-7A2C-44D7-AAAB-0ACFCD93C274",
+                "text": "电话工作量统计",
+                "sort": 20,
+                "type": 1,
+                "url": "61A8531B-7A2C-44D7-AAAB-0ACFCD93C274"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"企业抽取"
+                },
+                "parentCode": "40A7EC0D-397E-4E93-8C4C-2BD4A16138BA",
+                "menuCode": "7372F2C4-E386-4512-BBF5-E8853ED0FF73",
+                "path": "/index1/index1/4",
+                "name": "index1/index1/4",
+                "id": "7372F2C4-E386-4512-BBF5-E8853ED0FF73",
+                "text": "企业抽取",
+                "sort": 1,
+                "type": 1,
+                "url": "7372F2C4-E386-4512-BBF5-E8853ED0FF73"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "meta":{
+                    "title":"意向库统计"
+                },
+                "iconName": null,
+                "parentCode": "40A7EC0D-397E-4E93-8C4C-2BD4A16138BA",
+                "menuCode": "747E29DB-89E0-4AE9-9C69-995CDF591A9C",
+                "path": "/index1/index1/5",
+                "name": "index1/index1/5",
+                "id": "747E29DB-89E0-4AE9-9C69-995CDF591A9C",
+                "text": "意向库统计",
+                "sort": 22,
+                "type": 1,
+                "url": "747E29DB-89E0-4AE9-9C69-995CDF591A9C"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "meta":{
+                    "title":"意向库管理"
+                },
+                "iconName": null,
+                "parentCode": "40A7EC0D-397E-4E93-8C4C-2BD4A16138BA",
+                "menuCode": "B3216655-99F8-4212-965A-BAD6D7174B11",
+                "path": "/index1/index1/6",
+                "name": "index1/index1/6",
+                "id": "B3216655-99F8-4212-965A-BAD6D7174B11",
+                "text": "意向库管理",
+                "sort": 21,
+                "type": 1,
+                "url": "B3216655-99F8-4212-965A-BAD6D7174B11"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"任务分派"
+                },
+                "parentCode": "40A7EC0D-397E-4E93-8C4C-2BD4A16138BA",
+                "menuCode": "EC2183DE-AE18-445F-9E24-AB58425CC88B",
+                "path": "/index1/index1/7",
+                "name": "index1/index1/7",
+                "id": "EC2183DE-AE18-445F-9E24-AB58425CC88B",
+                "text": "任务分派",
+                "sort": 2,
+                "type": 1,
+                "url": "EC2183DE-AE18-445F-9E24-AB58425CC88B"
+            }
+        ],
+        "menuCode": "40A7EC0D-397E-4E93-8C4C-2BD4A16138BA",
+        "path": "/index1/index1/8",
+        "name": "index1/index1/8",
+        "id": "40A7EC0D-397E-4E93-8C4C-2BD4A16138BA",
+        "meta":{
+            "title":"任务管理"
+        },
+        "text": "任务管理",
+        "sort": 2,
+        "type": 0,
+        "url": "40A7EC0D-397E-4E93-8C4C-2BD4A16138BA"
+    },
+    {
+        "component": null,
+        "hidden": false,
+        "iconName": null,
+        "meta":{
+            "title":"111"
+        },
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "children": [
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "63947277-BF39-4D44-A695-39B4D2A9A44A",
+                "menuCode": "67DB8118-794F-4712-B7CA-BB6068633459",
+                "path": "/index1/index1/9",
+                "meta":{
+                    "title":"企业查询"
+                },
+                "name": "index1/index1/9",
+                "id": "67DB8118-794F-4712-B7CA-BB6068633459",
+                "text": "企业查询",
+                "sort": 12,
+                "type": 1,
+                "url": "67DB8118-794F-4712-B7CA-BB6068633459"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "meta":{
+                    "title":"客户管理"
+                },
+                "iconName": null,
+                "parentCode": "63947277-BF39-4D44-A695-39B4D2A9A44A",
+                "menuCode": "E7E17079-6243-4210-BD38-3D87C5388E49",
+                "path": "/index1/index1/10",
+                "name": "index1/index1/10",
+                "id": "E7E17079-6243-4210-BD38-3D87C5388E49",
+                "text": "客户管理",
+                "sort": 18,
+                "type": 1,
+                "url": "E7E17079-6243-4210-BD38-3D87C5388E49"
+            }
+        ],
+        "menuCode": "63947277-BF39-4D44-A695-39B4D2A9A44A",
+        "path": "/index1/index1/11",
+        "name": "index1/index1/11",
+        "id": "63947277-BF39-4D44-A695-39B4D2A9A44A",
+        "meta":{
+            "title":"企业管理"
+        },
+        "text": "企业管理",
+        "sort": 0,
+        "type": 0,
+        "url": "63947277-BF39-4D44-A695-39B4D2A9A44A"
+    },
+    {
+        "component": null,
+        "hidden": false,
+        "iconName": null,
+        "meta":{
+            "title":"111"
+        },
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "children": [
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "67C161FE-BCDA-4B01-9C76-6C630C41F1F3",
+                "menuCode": "843E2325-1806-468E-941A-96B275197FF3",
+                "path": "/index1/index1/12",
+                "name": "index1/index1/12",
+                "meta":{
+                    "title":"任务审核"
+                },
+                "id": "843E2325-1806-468E-941A-96B275197FF3",
+                "text": "任务审核",
+                "sort": 8,
+                "type": 1,
+                "url": "843E2325-1806-468E-941A-96B275197FF3"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"我的任务"
+                },
+                "parentCode": "67C161FE-BCDA-4B01-9C76-6C630C41F1F3",
+                "menuCode": "90FD7F62-675B-400B-86E0-C5AD22F19346",
+                "path": "/index1/index1/13",
+                "name": "index1/index1/13",
+                "id": "90FD7F62-675B-400B-86E0-C5AD22F19346",
+                "text": "我的任务",
+                "sort": 1,
+                "type": 1,
+                "url": "90FD7F62-675B-400B-86E0-C5AD22F19346"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"款项管理【催款】"
+                },
+                "parentCode": "67C161FE-BCDA-4B01-9C76-6C630C41F1F3",
+                "menuCode": "E8C37A1B-A3F4-4B23-B5D8-90BD1466A3A6",
+                "path": "/index1/index1/14",
+                "name": "index1/index1/14",
+                "id": "E8C37A1B-A3F4-4B23-B5D8-90BD1466A3A6",
+                "text": "款项管理【催款】",
+                "sort": 9,
+                "type": 1,
+                "url": "E8C37A1B-A3F4-4B23-B5D8-90BD1466A3A6"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"任务查阅"
+                },
+                "parentCode": "67C161FE-BCDA-4B01-9C76-6C630C41F1F3",
+                "menuCode": "EC43D519-80BC-4BA9-B615-8FF2C3AC79E5",
+                "path": "/index1/index1/15",
+                "name": "index1/index1/15",
+                "id": "EC43D519-80BC-4BA9-B615-8FF2C3AC79E5",
+                "text": "任务查阅",
+                "sort": 10,
+                "type": 1,
+                "url": "EC43D519-80BC-4BA9-B615-8FF2C3AC79E5"
+            }
+        ],
+        "menuCode": "67C161FE-BCDA-4B01-9C76-6C630C41F1F3",
+        "path": "/index1/index1/16",
+        "name": "index1/index1/16",
+        "meta":{
+            "title":"任务管理"
+        },
+        "id": "67C161FE-BCDA-4B01-9C76-6C630C41F1F3",
+        "text": "任务管理",
+        "sort": 4,
+        "type": 0,
+        "url": "67C161FE-BCDA-4B01-9C76-6C630C41F1F3"
+    },
+    {
+        "component": null,
+        "hidden": false,
+        "meta":{
+            "title":"111"
+        },
+        "iconName": null,
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "children": [
+            {
+                "component": null,
+                "hidden": false,
+                "meta":{
+                    "title":"我的考卷"
+                },
+                "iconName": null,
+                "parentCode": "90251147-3AE4-477E-A248-E8704B5B971C",
+                "menuCode": "044FF897-7A6A-4C67-B634-5D3D8F3B0784",
+                "path": "/index1/index1/17",
+                "name": "index1/index1/17",
+                "id": "044FF897-7A6A-4C67-B634-5D3D8F3B0784",
+                "text": "我的考卷",
+                "sort": 4,
+                "type": 1,
+                "url": "044FF897-7A6A-4C67-B634-5D3D8F3B0784"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "meta":{
+                    "title":"问答库"
+                },
+                "iconName": null,
+                "parentCode": "90251147-3AE4-477E-A248-E8704B5B971C",
+                "menuCode": "141557A5-E8B9-4661-9988-2EDB1D4720D4",
+                "path": "/index1/index1/18",
+                "name": "index1/index1/18",
+                "id": "141557A5-E8B9-4661-9988-2EDB1D4720D4",
+                "text": "问答库",
+                "sort": 5,
+                "type": 1,
+                "url": "141557A5-E8B9-4661-9988-2EDB1D4720D4"
+            },
+            {
+                "component": null,
+                "meta":{
+                    "title":"试卷制作"
+                },
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "90251147-3AE4-477E-A248-E8704B5B971C",
+                "menuCode": "7ED5332C-E6D3-44C1-AFB3-22D325DE7E94",
+                "path": "/index1/index1/19",
+                "name": "index1/index1/19",
+                "id": "7ED5332C-E6D3-44C1-AFB3-22D325DE7E94",
+                "text": "试卷制作",
+                "sort": 3,
+                "type": 1,
+                "url": "7ED5332C-E6D3-44C1-AFB3-22D325DE7E94"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"题库维护"
+                },
+                "parentCode": "90251147-3AE4-477E-A248-E8704B5B971C",
+                "menuCode": "9F7089BD-8990-465B-BD4A-9BA3BE5DA21C",
+                "path": "/index1/index1/20",
+                "name": "index1/index1/20",
+                "id": "9F7089BD-8990-465B-BD4A-9BA3BE5DA21C",
+                "text": "题库维护",
+                "sort": 2,
+                "type": 1,
+                "url": "9F7089BD-8990-465B-BD4A-9BA3BE5DA21C"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"视频观看情况统计"
+                },
+                "parentCode": "90251147-3AE4-477E-A248-E8704B5B971C",
+                "menuCode": "ADE1155E-04F5-4F56-B0CE-B7C41B98AE97",
+                "path": "/index1/index1/21",
+                "name": "index1/index1/21",
+                "id": "ADE1155E-04F5-4F56-B0CE-B7C41B98AE97",
+                "text": "视频观看情况统计",
+                "sort": 1,
+                "type": 1,
+                "url": "ADE1155E-04F5-4F56-B0CE-B7C41B98AE97"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"学习视频列表"
+                },
+                "parentCode": "90251147-3AE4-477E-A248-E8704B5B971C",
+                "menuCode": "E923A989-BAED-419F-B7EA-4D649E26DCC4",
+                "path": "/index1/index1/22",
+                "name": "index1/index1/22",
+                "id": "E923A989-BAED-419F-B7EA-4D649E26DCC4",
+                "text": "学习视频列表",
+                "sort": 0,
+                "type": 1,
+                "url": "E923A989-BAED-419F-B7EA-4D649E26DCC4"
+            }
+        ],
+        "menuCode": "90251147-3AE4-477E-A248-E8704B5B971C",
+        "path": "/index1/index1/23",
+        "name": "index1/index1/23",
+        "id": "90251147-3AE4-477E-A248-E8704B5B971C",
+        "text": "在线学习",
+        "meta":{
+            "title":"在线学习"
+        },
+        "sort": 5002,
+        "type": 0,
+        "url": "90251147-3AE4-477E-A248-E8704B5B971C"
+    },
+    {
+        "component": null,
+        "hidden": false,
+        "iconName": null,
+        "meta":{
+            "title":"111"
+        },
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "children": [
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "parentCode": "A7DDBA34-BC8A-4DF4-B0FF-04139840B2CE",
+                "menuCode": "9D97C827-0B20-4C42-B921-B149F38D17ED",
+                "path": "/index1/index1/24",
+                "meta":{
+                    "title":"信息录入"
+                },
+                "name": "index1/index1/24",
+                "id": "9D97C827-0B20-4C42-B921-B149F38D17ED",
+                "text": "信息录入",
+                "sort": 104,
+                "type": 1,
+                "url": "9D97C827-0B20-4C42-B921-B149F38D17ED"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"录入清单"
+                },
+                "parentCode": "A7DDBA34-BC8A-4DF4-B0FF-04139840B2CE",
+                "menuCode": "A926F8D1-E456-47F4-A131-968CC2DC445C",
+                "path": "/index1/index1/25",
+                "name": "index1/index1/25",
+                "id": "A926F8D1-E456-47F4-A131-968CC2DC445C",
+                "text": "录入清单",
+                "sort": 104,
+                "type": 1,
+                "url": "A926F8D1-E456-47F4-A131-968CC2DC445C"
+            }
+        ],
+        "menuCode": "A7DDBA34-BC8A-4DF4-B0FF-04139840B2CE",
+        "path": "/index1/index1/26",
+        "name": "index1/index1/26",
+        "meta":{
+            "title":"录入管理"
+        },
+        "id": "A7DDBA34-BC8A-4DF4-B0FF-04139840B2CE",
+        "text": "录入管理",
+        "sort": 103,
+        "type": 0,
+        "url": "A7DDBA34-BC8A-4DF4-B0FF-04139840B2CE"
+    },
+    {
+        "component": null,
+        "hidden": false,
+        "meta":{
+            "title":"企业短信测试"
+        },
+        "iconName": null,
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "menuCode": "BE955AF2-28BD-4378-BB47-88F2226B102C",
+        "path": "/index1/index1/27",
+        "name": "index1/index1/27",
+        "id": "BE955AF2-28BD-4378-BB47-88F2226B102C",
+        "text": "企业短信测试",
+        "sort": 5001,
+        "type": 1,
+        "url": "BE955AF2-28BD-4378-BB47-88F2226B102C"
+    },
+    {
+        "component": null,
+        "meta":{
+            "title":"111"
+        },
+        "hidden": false,
+        "iconName": null,
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "children": [
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": "icon-users",
+                "meta":{
+                    "title":"部门清单"
+                },
+                "parentCode": "CF4E8B89-BDD1-4EE0-A936-3F70BFE51819",
+                "menuCode": "4055F7C6-E154-42D5-B0AD-C0D934DF3AC1",
+                "path": "/index1/index1/28",
+                "name": "index1/index1/28",
+                "id": "4055F7C6-E154-42D5-B0AD-C0D934DF3AC1",
+                "text": "部门清单",
+                "sort": 1,
+                "type": 1,
+                "url": "4055F7C6-E154-42D5-B0AD-C0D934DF3AC1"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": "icon-users",
+                "meta":{
+                    "title":"人员清单"
+                },
+                "parentCode": "CF4E8B89-BDD1-4EE0-A936-3F70BFE51819",
+                "menuCode": "7DA003D7-8EF3-4EAC-B6B9-02CFDB573B8B",
+                "path": "/index1/index1/29",
+                "name": "index1/index1/29",
+                "id": "7DA003D7-8EF3-4EAC-B6B9-02CFDB573B8B",
+                "text": "人员清单",
+                "sort": 4,
+                "type": 1,
+                "url": "7DA003D7-8EF3-4EAC-B6B9-02CFDB573B8B"
+            }
+        ],
+        "menuCode": "CF4E8B89-BDD1-4EE0-A936-3F70BFE51819",
+        "path": "/index1/index1/30",
+        "name": "index1/index1/30",
+        "meta":{
+            "title":"机构管理"
+        },
+        "id": "CF4E8B89-BDD1-4EE0-A936-3F70BFE51819",
+        "text": "机构管理",
+        "sort": 7,
+        "type": 0,
+        "url": "CF4E8B89-BDD1-4EE0-A936-3F70BFE51819"
+    },
+    {
+        "component": null,
+        "hidden": false,
+        "meta":{
+            "title":"111"
+        },
+        "iconName": null,
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "children": [
+            {
+                "component": null,
+                "hidden": false,
+                "meta":{
+                    "title":"陌拜营销"
+                },
+                "iconName": null,
+                "parentCode": "EE1F6550-8EDB-4EF0-A3E8-7CCA8C7D1CDF",
+                "menuCode": "02FDF05B-27B4-486C-B88D-91249AEC76C6",
+                "path": "/index1/index1/31",
+                "name": "index1/index1/31",
+                "id": "02FDF05B-27B4-486C-B88D-91249AEC76C6",
+                "text": "陌拜营销",
+                "sort": 13,
+                "type": 1,
+                "url": "02FDF05B-27B4-486C-B88D-91249AEC76C6"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "meta":{
+                    "title":"我的公海库"
+                },
+                "iconName": null,
+                "parentCode": "EE1F6550-8EDB-4EF0-A3E8-7CCA8C7D1CDF",
+                "menuCode": "86E2682F-63F5-4E4F-A945-E72FCB0BC8E1",
+                "path": "/index1/index1/32",
+                "name": "index1/index1/32",
+                "id": "86E2682F-63F5-4E4F-A945-E72FCB0BC8E1",
+                "text": "我的公海库",
+                "sort": 1,
+                "type": 1,
+                "url": "86E2682F-63F5-4E4F-A945-E72FCB0BC8E1"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "meta":{
+                    "title":"渠道营销"
+                },
+                "iconName": null,
+                "parentCode": "EE1F6550-8EDB-4EF0-A3E8-7CCA8C7D1CDF",
+                "menuCode": "B198012B-DF34-4496-963E-7A0737008080",
+                "path": "/index1/index1/33",
+                "name": "index1/index1/33",
+                "id": "B198012B-DF34-4496-963E-7A0737008080",
+                "text": "渠道营销",
+                "sort": 12,
+                "type": 1,
+                "url": "B198012B-DF34-4496-963E-7A0737008080"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"我的签约库"
+                },
+                "parentCode": "EE1F6550-8EDB-4EF0-A3E8-7CCA8C7D1CDF",
+                "menuCode": "EC0A74A2-A108-4A44-83C0-912C0A094B9C",
+                "path": "/index1/index1/34",
+                "name": "index1/index1/34",
+                "id": "EC0A74A2-A108-4A44-83C0-912C0A094B9C",
+                "text": "我的签约库",
+                "sort": 3,
+                "type": 1,
+                "url": "EC0A74A2-A108-4A44-83C0-912C0A094B9C"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"我的意向库"
+                },
+                "parentCode": "EE1F6550-8EDB-4EF0-A3E8-7CCA8C7D1CDF",
+                "menuCode": "FF7347CE-5535-4C43-813A-A27B5D2DF6C2",
+                "path": "/index1/index1/35",
+                "name": "index1/index1/35",
+                "id": "FF7347CE-5535-4C43-813A-A27B5D2DF6C2",
+                "text": "我的意向库",
+                "sort": 2,
+                "type": 1,
+                "url": "FF7347CE-5535-4C43-813A-A27B5D2DF6C2"
+            }
+        ],
+        "menuCode": "EE1F6550-8EDB-4EF0-A3E8-7CCA8C7D1CDF",
+        "path": "/index1/index1/36",
+        "meta":{
+            "title":"销售管理"
+        },
+        "name": "index1/index1/36",
+        "id": "EE1F6550-8EDB-4EF0-A3E8-7CCA8C7D1CDF",
+        "text": "销售管理",
+        "sort": 2,
+        "type": 0,
+        "url": "EE1F6550-8EDB-4EF0-A3E8-7CCA8C7D1CDF"
+    },
+    {
+        "component": null,
+        "hidden": false,
+        "meta":{
+            "title":"111"
+        },
+        "iconName": null,
+        "parentCode": "F98F2FE6-6078-4746-9B07-B8D34123447C",
+        "children": [
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"成本科目配置"
+                },
+                "parentCode": "F1DDAA4F-ABAC-4B73-8828-B8D92DBBEAB7",
+                "menuCode": "25EC19C4-C1E1-4A3F-9651-C535DE72F93D",
+                "path": "/index1/index1/37",
+                "name": "index1/index1/37",
+                "id": "25EC19C4-C1E1-4A3F-9651-C535DE72F93D",
+                "text": "成本科目配置",
+                "sort": 2,
+                "type": 1,
+                "url": "25EC19C4-C1E1-4A3F-9651-C535DE72F93D"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "iconName": null,
+                "meta":{
+                    "title":"我的合同"
+                },
+                "parentCode": "F1DDAA4F-ABAC-4B73-8828-B8D92DBBEAB7",
+                "menuCode": "6DB860F7-0151-46C5-86F9-F996100EA842",
+                "path": "/index1/index1/38",
+                "name": "index1/index1/38",
+                "id": "6DB860F7-0151-46C5-86F9-F996100EA842",
+                "text": "我的合同",
+                "sort": 0,
+                "type": 1,
+                "url": "6DB860F7-0151-46C5-86F9-F996100EA842"
+            },
+            {
+                "component": null,
+                "hidden": false,
+                "meta":{
+                    "title":"催款/成本管理"
+                },
+                "iconName": null,
+                "parentCode": "F1DDAA4F-ABAC-4B73-8828-B8D92DBBEAB7",
+                "menuCode": "77D45866-2965-46EF-8DB9-2A79B4FDA6C4",
+                "path": "/index1/index1/39",
+                "name": "index1/index1/39",
+                "id": "77D45866-2965-46EF-8DB9-2A79B4FDA6C4",
+                "text": "催款/成本管理",
+                "sort": 1,
+                "type": 1,
+                "url": "77D45866-2965-46EF-8DB9-2A79B4FDA6C4"
+            }
+        ],
+        "menuCode": "F1DDAA4F-ABAC-4B73-8828-B8D92DBBEAB7",
+        "path": "/index1/index1/40",
+        "name": "index1/index1/40",
+        "meta":{
+            "title":"合同管理"
+        },
+        "id": "F1DDAA4F-ABAC-4B73-8828-B8D92DBBEAB7",
+        "text": "合同管理",
+        "sort": 3,
+        "type": 0,
+        "url": "F1DDAA4F-ABAC-4B73-8828-B8D92DBBEAB7"
+    }
+]

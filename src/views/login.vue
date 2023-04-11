@@ -2,7 +2,7 @@
   <div class="login">
     <h1 class="mainName">创然集团数字化系统</h1>
     <h3 class="mainNameP">CHUANGRAN GROUP DIGITAL SYSTEM</h3>
-    <el-form
+       <el-form
       ref="loginRef"
       :model="loginForm"
       :rules="loginRules"
@@ -132,14 +132,14 @@ function handleLogin() {
       userStore
         .login(loginForm.value)
         .then(() => {
-          router.push({ path: redirect.value || "/" });
+          router.push({ path: redirect.value || "/" }); 
         })
         .catch(() => {
           loading.value = false;
           // 重新获取验证码
           if (captchaEnabled.value) {
             getCode();
-          }
+          } 
         });
     }
   });
@@ -154,8 +154,12 @@ function getCode() {
       // let blob = new Blob([res], { type: "image/jpeg" });
       let url = URL.createObjectURL(res);
       codeUrl.value = url;
+      // const codeUrl=URL.createObjectURL(res);
+      // if(res){
+      //   this.ur= url.congs(12)
 
-      // codeUrl.value = "data:image/gif;base64," + res.img;
+      // }
+      //  codeUrl.value = "data:image/gif;base64," + res.img;
       loginForm.value.uuid = res.uuid;
     }
   });
@@ -211,11 +215,11 @@ getCookie();
 }
 
 .login-form {
-  border-radius: 6px;
+    border-radius: 6px;
   background: #094c81;
-  opacity: 0.7;
-  width: 400px;
-  padding: 25px 25px 5px 25px;
+  opacity: 0.9;
+    width: 400px;
+    padding: 25px 25px 5px 25px;
   .el-input {
     height: 40px;
     input {
@@ -229,7 +233,7 @@ getCookie();
   }
 }
 .login-tip {
-  font-size: 13px;
+  font-size: 13px; 
   text-align: center;
   color: #bfbfbf;
 }

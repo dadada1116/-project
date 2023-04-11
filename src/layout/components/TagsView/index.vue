@@ -90,7 +90,7 @@ function activeStyle(tag) {
   };
 }
 function isAffix(tag) {
-  return tag.meta && tag.meta.affix
+return tag.meta && tag.meta.affix
 }
 function isFirstView() {
   try {
@@ -188,7 +188,7 @@ function closeLeftTags() {
   })
 }
 function closeOthersTags() {
-  router.push(selectedTag.value).catch(() => { });
+  router.push(selectedTag.value).catch(() => { }); 
   proxy.$tab.closeOtherPage(selectedTag.value).then(() => {
     moveToCurrentTag()
   })
