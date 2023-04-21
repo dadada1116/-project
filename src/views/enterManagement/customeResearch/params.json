@@ -1,0 +1,160 @@
+{
+    "searchNode": {
+        "operator": "and",
+        "searchNodes": [
+            {
+                "operator": "and",
+                "searchNodes": [
+                    {
+                        "operator": "in",
+                        "table": "Badge",
+                        "column": "name",
+                        "value": "省级高新技术企业研发中心"
+                    }
+                ]
+            },
+            {
+                "operator": "in",
+                "table": "Company",
+                "column": "processPointName",
+                "value": "签约库"
+            },
+            {
+                "operator": "=",
+                "table": "Company",
+                "column": "industry1",
+                "value": "A"
+            },
+            {
+                "operator": "=",
+                "table": "Company",
+                "column": "industry2",
+                "value": "03"
+            },
+            {
+                "operator": "or",
+                "searchNodes": [
+                    {
+                        "operator": "like",
+                        "table": "Company",
+                        "column": "name",
+                        "value": "关键词"
+                    },
+                    {
+                        "operator": "like",
+                        "table": "Company",
+                        "column": "business",
+                        "value": "关键词"
+                    },
+                    {
+                        "operator": "like",
+                        "table": "Company",
+                        "column": "industry",
+                        "value": "关键词"
+                    },
+                    {
+                        "operator": "like",
+                        "table": "Company",
+                        "column": "lastMemo",
+                        "value": "关键词"
+                    },
+                    {
+                        "operator": "like",
+                        "table": "Company",
+                        "column": "importMemo",
+                        "value": "关键词"
+                    }
+                ]
+            },
+            {
+                "operator": "startWith",
+                "table": "Company",
+                "column": "regionCode",
+                "value": "3301"
+            },
+            {
+                "operator": "in",
+                "table": "Company",
+                "column": "peopleScale",
+                "value": "1000人以上"
+            },
+            {
+                "operator": "or",
+                "searchNodes": [
+                    {
+                        "operator": "and",
+                        "searchNodes": [
+                            {
+                                "operator": ">=",
+                                "table": "Company",
+                                "column": "registDate",
+                                "value": 5
+                            },
+                            {
+                                "operator": "<=",
+                                "table": "Company",
+                                "column": "registDate",
+                                "value": 10
+                            }
+                        ]   
+                    }
+                ]
+            },
+            {
+                "operator": "in",
+                "table": "Contact",
+                "column": "type",
+                "value": "手机"
+            },
+            {
+                "operator": "=",
+                "table": "Company",
+                "column": "lastMemo",
+                "value": "未拨打"
+            },
+            {
+                "operator": "or",
+                "searchNodes": [
+                    {
+                        "operator": "and",
+                        "searchNodes": [
+                            {
+                                "operator": ">=",
+                                "table": "Company",
+                                "column": "capital",
+                                "value": 5000
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "operator": "in",
+                "table": "Company",
+                "column": "incomeScale",
+                "value": "2-5亿"
+            },
+            {
+                "operator": "startWith",
+                "table": "Company",
+                "column": "regionCode",
+                "value": "330102"
+            },
+            {
+                "operator": "or",
+                "searchNodes": [
+                    {
+                        "operator": "like",
+                        "table": "Company",
+                        "column": "badge",
+                        "value": "省级高新技术企业研发中心2021"
+                    }
+                ]
+            }
+        ]
+    },
+    "processPointName": "公海库",
+    "count": 100,
+    "category": "企业查询",
+    "sort": "lastUpdate"
+}
