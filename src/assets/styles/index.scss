@@ -13,6 +13,7 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+  box-sizing: border-box;
 }
 
 label {
@@ -126,6 +127,22 @@ aside {
   padding: 20px;
 }
 
+.search-container {}
+
+.label-name {
+  float: left;
+  font-size: 14px;
+  color: #606266;
+  line-height: 40px;
+  width: 98px;
+}
+
+.item-container {
+  display: inline-flex;
+  width: 24%;
+
+}
+
 .components-container {
   margin: 30px 50px;
   position: relative;
@@ -190,4 +207,23 @@ aside {
 
 .multiselect--active {
   z-index: 1000 !important;
+}
+
+.task-main {
+  padding: 20px;
+  width: 100%;
+}
+
+.circle {
+  font-size: 11px !important;
+  font-weight: 300;
+  height: 18px;
+  color: #fff;
+  padding: 3px 6px;
+  -webkit-border-radius: 12px !important;
+  -moz-border-radius: 12px !important;
+  border-radius: 12px !important;
+  text-shadow: none !important;
+  text-align: center;
+  background-color: #ed6b75;
 }

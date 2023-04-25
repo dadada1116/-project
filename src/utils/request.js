@@ -17,7 +17,7 @@ const service = axios.create({
   // axios中请求配置有baseURL选项，表示请求URL公共部分
   baseURL: import.meta.env.VITE_APP_BASE_API,
   // 超时
-  timeout: 2000
+  timeout:200000
 })
 
 // request拦截器
@@ -39,7 +39,8 @@ service.interceptors.request.use(config => {
   if (!isRepeatSubmit && (config.method === 'post' || config.method === 'put')) {
     const requestObj = {
       url: config.url,
-      data: typeof config.data === 'object' ? JSON.stringify(config.data) : config.data,
+      data: config.data,
+      // data: typeof config.data === 'object' ? JSON.stringify(config.data) : config.data,
       time: new Date().getTime()
     }
     const sessionObj = cache.session.getJSON('sessionObj')

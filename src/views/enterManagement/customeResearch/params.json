@@ -6,7 +6,7 @@
                 "operator": "and",
                 "searchNodes": [
                     {
-                        "operator": "in",
+                        "operator": "not in",
                         "table": "Badge",
                         "column": "name",
                         "value": "高新技术企业"
@@ -74,14 +74,7 @@
             },
             {
                 "operator": "or",
-                "searchNodes": [
-                    {
-                        "operator": "like",
-                        "table": "Company",
-                        "column": "badge",
-                        "value": "高新技术企业1999"
-                    }
-                ]
+                "searchNodes": []
             },
             {
                 "operator": "startWith",
